@@ -9,7 +9,7 @@ All the results and conclusions are summarized below.
 
 
 
-![Tumor Response to Treatment](plots/Summary_Percent_Tumor_Change.png)
+![Tumor Response to Treatment](plots/Tumor_Response_Treatment.png)
 
 The efficacy of Capomulin was further demonstrated in the mean metastatic site data shown in Metastatic Spread During Treatment. While new metastatic sites were seen across all regimens, treatment with Capomulin slowed the formation of metastatic sites to an average of 1.5 new sites versus the other treatments. Infubinol 2.1 new sites, Ketapril 3.3 new sites and Placebo 3.4 new sites over the course of the 45-day treatment period.
 
@@ -24,4 +24,4 @@ In sum, the drug Capomulin showed the most promise in treating SCC, because it s
 Of the four treatment options, Capomulin was the only drug showing efficacy in reducing tumor size with a 19% reduction over the 45-day course of treatment. Infubinol and Ketapril displayed similar effects as Placebo, demonstrating low effect on tumor volume reduction. 
 
 
-![Tumor Change Over 45 Day Treatment](plots/Tumor_Response_Treatment.png)
+![Tumor Change Over 45 Day Treatment](plots/Summary_Percent_Tumor_Change.png)
